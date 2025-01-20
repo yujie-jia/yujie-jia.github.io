@@ -1,8 +1,8 @@
 ---
-title: "Project 1"
-description: "项目描述和技术栈"
-image: '/images/project1.png'
-demo: 'https://demo.com'
-code: 'https://github.com/yourusername/project1'
-slides: '/files/project1_slides.pdf'
+title: "BookDone书掂"
+description: "书掂BookDone，旨在通过知识可视化技术，将复杂文本转化为动态结构，为学习者个性化构建一个高效、直观的阅读学练生态。"
+image: '/images/BookDone.png'
+demo: '/files/BookDone_demo.mp4'
+# code: 'https://github.com/yourusername/project1'
+slides: '/files/BookDone产品文档.pdf'
 --- 
