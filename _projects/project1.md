@@ -4,5 +4,5 @@ description: "书掂BookDone，旨在通过知识可视化技术，将复杂文�
 image: '/images/BookDone.png'
 demo: '/files/BookDone_demo.mp4'
 # code: 'https://github.com/yourusername/project1'
-slides: '/files/bookdone.pdf'
+slides: '/files/bookdone1.pdf'
 --- 

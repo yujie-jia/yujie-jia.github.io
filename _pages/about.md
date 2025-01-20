@@ -41,9 +41,13 @@ Projects
 
 # 🎯 Misc
 ------
-*👋 我是一枚AIGC玩家！最爱数字生命卡兹克～
-*🏀 篮球迷一枚，欧文哈登死忠粉
-*🎹 课余玩玩琴、啃啃书（被GEB震撼到）
-*📺 入坑动漫：双城之战/巨人/赛朋
-*🚫 辣味咖啡与我无缘，酒量=0
-*🎤 热爱音乐但...五音不全😂
+* 👋 BIG FAN of AIGC！（数字生命卡兹克的AIGC产品推荐基本上都试过~）
+
+* 🏀 Addicted to playing BASKETBALL！(Superfan of Kyrie & Harden)
+
+* 🎹 喜欢弹电子琴、📚 阅读（G.E.B.）、🎬 看动漫影视（Arcane/Attack on Titan/Cyberpunk: Edgerunners）
+
+* 😖 不喜欢吃辣，不喜欢喝咖啡
+
+* 🍺 喜欢但不能喝酒，🎤 喜欢但不会唱歌~
+
