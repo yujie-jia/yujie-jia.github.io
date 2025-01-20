@@ -5,7 +5,7 @@ description: "收集和预处理代码数据集，通过LLaMa Factory微调模�
 image: '/images/梧桐洪湖.png'
 # demo: 'https://youtu.be/vision_demo'
 # coming soon
-# code: 'https://github.com/yujie-jia/vision-research'
+code: 'https://github.com/yujie-jia/dataFormatForChatglm6BCodeGenerate'
 slides: '/files/梧桐洪湖.pdf'
 ---
 
