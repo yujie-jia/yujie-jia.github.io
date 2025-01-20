@@ -1,11 +1,12 @@
 ---
 layout: project
-title: Computer Vision Research
-description: "Research on advanced computer vision algorithms focusing on object detection and scene understanding. Developed novel deep learning architectures for real-time visual recognition tasks."
-image: '/images/vision_research.png'
-demo: 'https://youtu.be/vision_demo'
-code: 'https://github.com/yujie-jia/vision-research'
-slides: '/files/vision_research_slides.pdf'
+title: 基于ChatGLM3-6B大模型的代码生成研究
+description: "收集和预处理代码数据集，通过LLaMa Factory微调模型，采用chatchat搭建知识库，将微调模型和知识库结合，得到代码生成模型。使用humaneval和人工案例分析进行模型评价。"
+image: '/images/梧桐洪湖.png'
+# demo: 'https://youtu.be/vision_demo'
+# coming soon
+# code: 'https://github.com/yujie-jia/vision-research'
+slides: '/files/梧桐洪湖.pdf'
 ---
 
 ## 研究概述
