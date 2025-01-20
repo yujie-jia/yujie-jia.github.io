@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 <br />
-I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing an agent that can understand and interact with the multi-modal world. Toward this goal, my research mainly focus on:
+I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing intelligent systems that can understand and interact with the multi-modal world. Currently, my research interests mainly focus on:
 
-* <b>Embodied AI</b>: Visual Navigation; Dexterous manipulation; 
-* <b>Multi-Modal Large Models</b>: Multi-Agent Systems; Retrieval-Augmented Generation (RAG); Knowledge Refinement for Long-Text Data
+* <b>Multi-Modal Large Models</b>: Multi-Agent Decision Systems; Multi-Modal Fusion and Alignment; Multi-Modal Knowledge Integration
+* <b>Embodied AI</b>: Vision-and-Language Navigation in Continuous Environments; Dexterous manipulation
+
+As an undergraduate researcher in the early stages of my academic journey, I maintain an open mindset and am enthusiastic about exploring emerging technologies in artificial intelligence~
 
 Research
 ------
