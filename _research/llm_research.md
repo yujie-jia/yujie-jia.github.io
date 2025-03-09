@@ -1,9 +1,10 @@
 ---
-title: "ExpStar: Automatic Narration Generation for Scientific Experimental Videos"
-description: "We present ExpStar, the first automatic narration generation model for experimental teaching videos across multiple scientific disciplines, powered by UniExp-5K, our novel multi-domain dataset comprising 5,000 high-quality multimodal training samples from physics, chemistry, biology, and children's science experiments."
-image: 'images/Exp.png'
-paper: 'https://yujie-jia.github.io/ExpStar/'
-order: 1  # 添加这行，数字越小排序越靠前
-# slides: '/files/llm_slides.pdf'
-# code: 'https://github.com/yujie-jia/llm-research'
+layout: project
+title: 基于ChatGLM3-6B大模型的代码生成研究
+description: "收集和预处理代码数据集，通过LLaMa Factory微调模型，采用chatchat搭建知识库，将微调模型和知识库结合，得到代码生成模型。使用humaneval和人工案例分析进行模型评价。"
+image: '/images/梧桐洪湖.png'
+# demo: 'https://youtu.be/vision_demo'
+# coming soon
+code: 'https://github.com/yujie-jia/dataFormatForChatglm6BCodeGenerate'
+slides: '/files/梧桐洪湖.pdf'
 --- 
