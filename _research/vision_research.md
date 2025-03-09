@@ -7,6 +7,7 @@ image: '/images/梧桐洪湖.png'
 # coming soon
 code: 'https://github.com/yujie-jia/dataFormatForChatglm6BCodeGenerate'
 slides: '/files/梧桐洪湖.pdf'
+order: 3  # 添加这行，数字越小排序越靠前
 ---
 
 ## 研究概述

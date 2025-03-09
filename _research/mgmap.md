@@ -4,6 +4,6 @@ description: "连续环境下的视觉语言导航 旨在让机器人根据自�
 image: '/images/VLNCE.png'
 # paper: '/files/MGMap_paper.pdf'
 # slides: '/files/VLNCE.pdf'
-# coming soon
 code: 'https://github.com/yujie-jia/VLNCE_graph_dataset_construction'
+order: 2  # 添加这行，数字越小排序越靠前
 --- 
