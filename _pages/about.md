@@ -46,6 +46,6 @@ Projects
 * 👋 BIG FAN of AIGC！（数字生命卡兹克的AIGC产品推荐基本上都试过~）<br>
 * 🏀 Addicted to playing BASKETBALL！(Superfan of Kyrie & Harden)<br>
 * 🎹 喜欢弹电子琴、📚 阅读（G.E.B.）、🎬 看动漫影视（Arcane/Attack on Titan/Cyberpunk: Edgerunners）<br>
-* 😖 不喜欢吃辣，不喜欢喝咖啡<br>
-* 🍺 喜欢但不能喝酒，🎤 喜欢但不会唱歌~<br>
+<!-- * 😖 不喜欢吃辣，不喜欢喝咖啡<br>
+* 🍺 喜欢但不能喝酒，🎤 喜欢但不会唱歌~<br> -->
 
