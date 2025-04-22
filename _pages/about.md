@@ -11,15 +11,19 @@ redirect_from:
 <br />
 
 I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing intelligent systems that can understand and interact with the multi-modal world. Currently, my research interests mainly focus on:
+
 **Multi-Modal Large Models & AI Education**
 - Multi-modal Knowledge Representation and Fusion
 - Intelligent Commentary Generation for Experimental Teaching
 - Multi-Agent Systems for Personalized Knowledge Learning
+
 **Embodied AI & Decision Making**
-- Vision-and-Language Navigation in Continuous Environments
-- Multi-modal Knowledge Alignment and Decision Optimization
 - Retrieval-Augmented Decision Making for Intelligent Agents
-As an undergraduate researcher in the early stages of my academic journey, I maintain an open mindset and am enthusiastic about exploring emerging technologies in artificial intelligence.
+- Multi-modal Knowledge Alignment and Decision Optimization
+- Vision-and-Language Navigation in Continuous Environments
+
+
+As an undergraduate researcher in the early stages of my academic journey, I maintain an open mindset and am enthusiastic about exploring emerging technologies in AI.
 Feel free to contact me if you're interested in discussing or seeking potential collaborations.
 
 Research
