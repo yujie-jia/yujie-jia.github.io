@@ -10,7 +10,7 @@ redirect_from:
 
 <br />
 
-I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing intelligent systems that can understand and interact with the multi-modal world. Currently, my research interests mainly focus on:
+<!-- I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. I engage in developing intelligent systems that can understand and interact with the multi-modal world. Currently, my research interests mainly focus on:
 
 **Multi-Modal Large Models & AI Education**
 - Multi-modal Knowledge Representation and Fusion
@@ -25,6 +25,15 @@ I am a third-year undergraduate student in the School of Software Engineering at
 
 As an undergraduate researcher in the early stages of my academic journey, I maintain an open mindset and am enthusiastic about exploring emerging technologies in AI.
 Feel free to contact me if you're interested in discussing or seeking potential collaborations.
+
+I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. My passion lies in developing intelligent systems that can perceive, understand, and interact with our complex, multi-modal world. Currently, my research interests mainly focus on:
+ -->
+
+Multi-Modal Large Models: Exploring the capabilities and applications of models that integrate various data types. My interests involve enhancing model efficiency through token pruning and information compression, developing unified frameworks for video and image generation, and creating architectures that unify multi-modal understanding and generation.
+Diffusion Language Models: Researching novel architectures and applications of diffusion-based models for language.
+Embodied AI: Focusing on foundational models for robotics that leverage force-feedback data to enhance physical interaction.
+AI for Industry (AI+): Investigating the practical application of AI technologies to transform various sectors, including Education, Recruitment, Healthcare, and ERP.
+As an undergraduate researcher in the early stages of my academic journey, I maintain an open and curious mindset. I am always enthusiastic about exploring emerging technologies and innovative applications. Feel free to contact me if you are interested in discussing or exploring collaborations.
 
 Research
 ------
