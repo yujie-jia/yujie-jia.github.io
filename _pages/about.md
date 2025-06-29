@@ -63,8 +63,11 @@ Projects
 
 # 🎯 Misc
 ------
-* 👋 BIG FAN of AIGC！（数字生命卡兹克的AIGC产品推荐基本上都试过~）<br>
+* 👋 BIG FAN of AIGC！<br>
 * 🏀 Addicted to playing BASKETBALL！(Superfan of Kyrie & Harden)<br>
-* 🎹 喜欢弹电子琴、📚 阅读（G.E.B.）、🎬 看动漫影视（Arcane/Attack on Titan/Cyberpunk: Edgerunners）<br>
+* 🎹 Enjoy playing the electronic keyboard、📚 Reading（G.E.B.）、🎬 Watching anime（Arcane/Attack on Titan/Cyberpunk: Edgerunners）<br>
+
+
+
 
 
