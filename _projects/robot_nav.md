@@ -4,5 +4,5 @@ description: "本发明提供一种基于多智能体和检索增强生成的个
 image: '/images/multi_agent.png'
 demo: '/files/知识规划agent.mp4'
 # code: 'https://github.com/yujie-jia/robot-nav'
-slides: '/files/5_基于MultiAgent和RAG的定制化知识学习框架.pdf'
+slides: '/files/Multiagent结项版本.pdf'
 --- 
