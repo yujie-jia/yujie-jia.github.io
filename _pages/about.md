@@ -28,6 +28,7 @@ Feel free to contact me if you're interested in discussing or seeking potential 
 
 I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. My passion lies in developing intelligent systems that can perceive, understand, and interact with our complex, multi-modal world. Currently, my research interests mainly focus on:
  -->
+I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. My passion lies in developing intelligent systems that can perceive, understand, and interact with our complex, multi-modal world. Currently, my research interests mainly focus on:
 
 Multi-Modal Large Models: Exploring the capabilities and applications of models that integrate various data types. My interests involve enhancing model efficiency through token pruning and information compression, developing unified frameworks for video and image generation, and creating architectures that unify multi-modal understanding and generation.
 Diffusion Language Models: Researching novel architectures and applications of diffusion-based models for language.
