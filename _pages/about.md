@@ -9,24 +9,22 @@ redirect_from:
 ---
 
 <br />
-I am a third-year undergraduate student in the School of Software Engineering at South China University of Technology. My passion lies in developing intelligent systems that can perceive, understand, and interact with our complex, multi-modal world. Currently, my research interests mainly focus on:
+I am currently a first-year master's student in the Data Science and Information Technology program at Tsinghua Shenzhen International Graduate School, Tsinghua University. I am a member of MMLabSZ, advised by Prof. Zhi Wang.
 
-**Multi-Modal Large Models**: Exploring the capabilities and applications of models that integrate various data types. My interests involve enhancing model efficiency through token pruning, developing unified frameworks for video and image generation, and creating architectures that unify multi-modal understanding and generation.
+Previously, I received my bachelor's degree in Software Engineering from South China University of Technology.
 
-**Diffusion Language Models**: Researching novel architectures and applications of diffusion-based models for language. Furthermore, I envision a new paradigm — diffusion is all you need.
+My research interests mainly focus on Vision-Language Navigation (VLN), with a particular interest in dense reward modeling and long-horizon navigation in real-world environments.
 
-**Embodied AI**: Focusing on foundational models for robotics that leverage force-feedback data to enhance physical interaction.
-
-**AI for Industry**: Investigating the practical application of AI technologies to transform various sectors, including Education, Recruitment, Healthcare, and ERP.
-
-As an undergraduate researcher in the early stages of my academic journey, I maintain an open mindset. I am enthusiastic about exploring emerging technologies and innovative applications. Feel free to contact me if you are interested in discussing or exploring collaborations.
+I am enthusiastic about exploring emerging technologies and innovative applications. Feel free to reach out if you are interested in discussing ideas or potential collaborations.
 
 Research
 ------
 <div>
   <table>
   {% for post in site.research reversed %}
+    {% unless post.hidden %}
     <tr>{% include research.html %}</tr>
+    {% endunless %}
   {% endfor %}
   </table>
 </div>
@@ -36,23 +34,22 @@ Projects
 <div>
   <table>
   {% for post in site.projects reversed %}
+    {% unless post.hidden %}
     <tr>{% include project.html %}</tr>
+    {% endunless %}
   {% endfor %}
   </table>
 </div>
 
 # 🏆 Award
+* <b>2025:</b> National Scholarship of SCUT
 * <b>2024:</b> National Scholarship of SCUT
-* <b>2024:</b> Hongping Evergreen Scholarship of SCUT
 * <b>2023:</b> Macau Alumni Association Scholarship of SCUT
 
 # 🎯 Misc
 ------
-* 👋 BIG FAN of AIGC！<br>
 * 🏀 Addicted to playing BASKETBALL！(Superfan of Kyrie & Harden)<br>
-* 🎹 Enjoy playing the electronic keyboard、📚 Reading（G.E.B.）、🎬 Watching anime（Arcane/Attack on Titan/Cyberpunk: Edgerunners）<br>
-
-
+* 🎹 Playing the electronic keyboard, 📚 reading (e.g., GEB), 🎬 watching anime (e.g., Arcane, Attack on Titan, Cyberpunk: Edgerunners), and 🎲 playing board games.<br>
 
 
 
