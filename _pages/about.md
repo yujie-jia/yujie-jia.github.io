@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-I am currently a first-year master's student in the Data Science and Information Technology program at Tsinghua Shenzhen International Graduate School, Tsinghua University. I am a member of MMLabSZ, advised by Prof. Zhi Wang.
+I am currently a first-year master's student in the Data Science and Information Technology program at Tsinghua Shenzhen International Graduate School. I am a member of MMLabSZ, advised by Prof. Zhi Wang.
 
 Previously, I received my bachelor's degree in Software Engineering from South China University of Technology.
 
